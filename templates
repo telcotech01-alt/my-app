@@ -1,3 +1,0 @@
-git add templates/
-git commit -m "Add templates folder with login.html"
-git push origin main
